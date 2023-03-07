@@ -28,7 +28,7 @@ object DataFrameReadAndWrite {
     println(sourceBikeDF.count())
     println(extractedDF.count())
 
-    extractedDF.write.format("csv").mode("overwrite").save("C:\\Users\\10720444\\IdeaProjects\\spark_real_time_prjts\\target\\output")
+//    extractedDF.write.format("csv").mode("overwrite").save("C:\\Users\\10720444\\IdeaProjects\\spark_real_time_prjts\\target\\output")
 
 //    val jdbcDF = sparkSession.read
 //      .format(source = "jdbc")
