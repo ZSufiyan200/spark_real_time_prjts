@@ -1,6 +1,7 @@
-[debug] downloaded https://repo1.maven.org/maven2/org/postgresql/postgresql/9.4.1212/postgresql-9.4.1212.pom
-[debug] downloaded https://repo1.maven.org/maven2/org/postgresql/pgjdbc-core-parent/1.1.2/pgjdbc-core-parent-1.1.2.pom
-[debug] downloaded https://repo1.maven.org/maven2/org/postgresql/pgjdbc-versions/1.1.2/pgjdbc-versions-1.1.2.pom
-[debug] downloaded https://repo1.maven.org/maven2/org/postgresql/postgresql/9.4.1212/postgresql-9.4.1212.jar
-[debug] downloaded https://repo1.maven.org/maven2/org/postgresql/postgresql/9.4.1212/postgresql-9.4.1212-sources.jar
-[debug] downloaded https://repo1.maven.org/maven2/org/postgresql/postgresql/9.4.1212/postgresql-9.4.1212-javadoc.jar
+[debug] downloaded https://repo1.maven.org/maven2/mysql/mysql-connector-java/8.0.17/mysql-connector-java-8.0.17.pom
+[debug] downloaded https://repo1.maven.org/maven2/com/google/protobuf/protobuf-java/3.6.1/protobuf-java-3.6.1.pom
+[debug] downloaded https://repo1.maven.org/maven2/com/google/protobuf/protobuf-parent/3.6.1/protobuf-parent-3.6.1.pom
+[debug] downloaded https://repo1.maven.org/maven2/mysql/mysql-connector-java/8.0.17/mysql-connector-java-8.0.17.jar
+[debug] downloaded https://repo1.maven.org/maven2/mysql/mysql-connector-java/8.0.17/mysql-connector-java-8.0.17-javadoc.jar
+[debug] downloaded https://repo1.maven.org/maven2/mysql/mysql-connector-java/8.0.17/mysql-connector-java-8.0.17-javadoc.jar.sha1
+[debug] downloaded https://repo1.maven.org/maven2/mysql/mysql-connector-java/8.0.17/mysql-connector-java-8.0.17-sources.jar

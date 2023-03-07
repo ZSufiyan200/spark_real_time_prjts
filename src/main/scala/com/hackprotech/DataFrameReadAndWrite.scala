@@ -30,13 +30,13 @@ object DataFrameReadAndWrite {
 
     extractedDF.write.format("csv").mode("overwrite").save("C:\\Users\\10720444\\IdeaProjects\\spark_real_time_prjts\\target\\output")
 
-    val jdbcDF = sparkSession.read
-      .format(source = "jdbc")
-      .option("url" , "jdbc:postgresql://192.168.1.8:5432/postgres")
-      .option("dbtable" ,"\"employee\"")
-      .option("user" ,"postgres")
-      .option("password" ,"Su@329224")
-      .load()
+//    val jdbcDF = sparkSession.read
+//      .format(source = "jdbc")
+//      .option("url" , "jdbc:postgresql://192.168.1.8:5432/postgres")
+//      .option("dbtable" ,"\"employee\"")
+//      .option("user" ,"postgres")
+//      .option("password" ,"Su@329224")
+//      .load()
 
     sparkSession.stop()
   }
